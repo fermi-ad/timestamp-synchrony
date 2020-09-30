@@ -15,3 +15,17 @@ Across languages, time, and systems there have been multiple timing drivers. Thi
 All the steps of data collection are summarized in `timestamp-synchrony.sh` which can be run to get all new and up-to-date data.
 
 The last step is the analysis which can be run independently, `node main.js`. The data must be collected before the analysis is run.
+
+## Install
+
+Node packages must installed before being able to run the `main.js`.
+
+Node packages are installed from the [http://adrfads.fnal.gov:4873/](http://adrfads.fnal.gov:4873/) registry.
+
+The install command needs a registry argument.
+
+`npm install --registry=http://adrfads.fnal.gov:4873/`
+
+The `@fnal/dpm-client` package is in the adrfads repo.
+
+NOTE: currently the `@fnal/dpm-client` is meant for the browser and requires modifications to work with NodeJS. Until I fix this please contact Beau Harrison for help.
