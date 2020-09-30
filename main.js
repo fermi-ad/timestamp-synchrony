@@ -124,8 +124,6 @@ const exitGracefully = (signal, options) => {
         print(count(timestamps));
 
         const keeperData = fs.readFileSync(nodeKeeperFile, `utf8`);
-
-        console.log(keeperData)
         
         for (line of keeperData.split(`\n`)) {
             const [node, keeperFirst, keeperLast] = line.split(` `);
