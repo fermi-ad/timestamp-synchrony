@@ -1,0 +1,16 @@
+{
+  "name": "timestamp-synchrony",
+  "version": "1.0.0",
+  "description": "1. Get a list of down nodes to exclude from the test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fnal/dpm-client": "^2.3.3",
+    "websocket": "^1.0.32"
+  }
+}

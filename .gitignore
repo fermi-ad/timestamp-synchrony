@@ -1,0 +1,8 @@
+*
+!.gitignore
+!main.js
+!package.json
+!package-lock.json
+!README.md
+!data
+!data/.gitkeep
