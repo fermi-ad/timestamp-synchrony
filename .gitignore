@@ -6,3 +6,5 @@
 !README.md
 !data
 !data/.gitkeep
+!results
+!results/rawOutput.txt
