@@ -208,3 +208,51 @@ The idea here is that particular delta may be associate with the node keeper.
 | -981885986 | Jianming You, Jianming You, Jianming You |
 | -1572005922000 | Rich Neswold |
 | -1600958660000 | William Pellico |
+
+### Software Grouped By Delta
+
+The idea here is that particular delta may be associate with the node software. Preferably we know the timing driver and version for these nodes so we get a better idea of if there is an implementation error.
+
+| Delta | Software |
+| ----- | -------- |
+| 1 | MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, ACSys/FEF, MOOC, MOOC, MOOC |
+| -1 | Java, Java, Java |
+| 2 | MOOC |
+| 6 | MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC |
+| 13 | MOOC, MOOC, MOOC |
+| 14 | MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC, MOOC |
+| -16 | MOOC |
+| 35 | MOOC |
+| 55 | IRM |
+| 105 | MOOC, MOOC, MOOC |
+| -800 | IRM, IRM, IRM, IRM, IRM, IRM, IRM, IRM, IRM, IRM, IRM |
+| -801 | IRM, IRM, IRM |
+| -867 | IRM, IRM |
+| -3132 | Java |
+| -4285 | MOOC |
+| -4270 | MOOC |
+| -4305 | Java |
+| -4306 | MOOC |
+| -4311 | MOOC |
+| -4312 | Java |
+| -4313 | MOOC |
+| -4325 | MOOC |
+| -4348 | MOOC |
+| -4579 | MOOC |
+| -4580 | Acnet-NG |
+| -4595 | MOOC |
+| -4597 | MOOC |
+| -4617 | MOOC |
+| -4621 | MOOC |
+| -4994 | MOOC |
+| -12000 | MOOC |
+| -15000 | MOOC |
+| -25999 | MOOC |
+| -73000 | MOOC |
+| 132000 | MOOC |
+| 1941268 | IRM |
+| -637064795 | MOOC |
+| -637064820 | MOOC |
+| -981885986 | MOOC, MOOC, MOOC |
+| -1572005922000 | MOOC |
+| -1600958660000 | MOOC |
