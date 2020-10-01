@@ -2,6 +2,10 @@
 
 These are a collection of observations from the [raw output](./rawOutput.txt).
 
+## Future Efforts
+
+Dennis Nicklaus recommended running the test again and comparing the results for consistency.
+
 ## Unresponsive Nodes
 
 These nodes weren't marked as down but a request on event to it's guaranteed readable device didn't respond.
